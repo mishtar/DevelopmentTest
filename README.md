@@ -1,4 +1,3 @@
-# WebApp - WebApi
 ###### Development test for MasGlobal
 
 ## Info
